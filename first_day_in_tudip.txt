@@ -1,6 +1,8 @@
-*todays work on assignment of Git
+todays work on assignment of Git
 
---Create account on GitHub(https://github.com/) with my Tudip email.
---Update GitHub username in my account information section (http://tudip.steersimple.com/my/account) on SteerSimple
+--Create account on GitHub(https://github.com/) with Tudip email.
+--Update GitHub username in account information section (http://tudip.steersimple.com/my/account) on SteerSimple
 --Create new public repository from account on GitHub.
 --Take a clone of that repository on local machine.
+--Create a new file first_day_in_tudip.txt and commit it to repository.
+--Change the existing first_day_in_tudip.txt and commit it to repository.
